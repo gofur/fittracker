@@ -9,3 +9,4 @@ For healthy apps.
 - Firestore
 - Bloc
 - Firebase auth
+- GetIt
